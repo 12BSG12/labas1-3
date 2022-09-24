@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/labas1-3/static/css/main.ead097a0.css",
+    "main.js": "/labas1-3/static/js/main.82e96c66.js",
+    "index.html": "/labas1-3/index.html",
+    "main.ead097a0.css.map": "/labas1-3/static/css/main.ead097a0.css.map",
+    "main.82e96c66.js.map": "/labas1-3/static/js/main.82e96c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ead097a0.css",
+    "static/js/main.82e96c66.js"
+  ]
+}
