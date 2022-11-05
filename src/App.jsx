@@ -1,5 +1,5 @@
 import styles from './App.module.css';
-import Lab4 from './Labs/Lab4';
+import Lab6 from './Labs/Lab6';
 
 const App = () => { 
   return (
@@ -8,7 +8,7 @@ const App = () => {
         <p>Вариант №4</p>
         <p>Выполнил студент группы АСУ-20 Глушенков В.В.</p>
       </div>
-      <Lab4 />
+      <Lab6 />
     </div>
   );
 };

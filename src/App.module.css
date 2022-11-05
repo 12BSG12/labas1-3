@@ -15,7 +15,7 @@ html {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: #000;
+  color: white;
 }
 
 a,
@@ -27,7 +27,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: #000;
+  color: white;
 }
 
 h1 {
@@ -58,39 +58,7 @@ a {
   margin-bottom: 30px;
 }
 
-.blockBtn{
-  position: relative;
-  z-index: 1000;
+.select {
   margin-top: 20px;
-}
-
-.btn{
-  margin-bottom: 10px;
-  cursor: pointer;
-}
-
-img{
-  position: relative;
-  height: 600px;
-}
-
-.stage{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-}
-
-.draggable{
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 10px;
-}
-
-span{
-  margin-right: 10px;
-}
-
-input{
-  width: 50px;
+  min-width: 100px;
 }
